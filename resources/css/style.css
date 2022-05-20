@@ -254,12 +254,12 @@ header {
 }
 
 .sticky .main-nav {
-    margin-top: 16px;
+    margin-top: 18px;
 }
 
 .sticky .main-nav li a {
     color: #555;
-    padding: 14px 0;
+    padding: 16px 0;
 }
 
 .sticky .logo {
