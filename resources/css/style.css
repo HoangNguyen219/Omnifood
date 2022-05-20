@@ -2,8 +2,8 @@
 /* BASIC SETUP */
 /*----------------------------------------------------- */
 :root {
-    --primary-color: #e67e22;
-    --primary-color-dark: #cf6d17;
+    --primary-color: #e62222;
+    --primary-color-dark: rgb(198, 38, 38);
     --text-color: #fff;
 }
 
